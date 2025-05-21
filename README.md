@@ -1,8 +1,12 @@
 # BIBLE_WORD_EMPHASIS-
 A brief Data Analysis project analyzing the repetition of certain words in the bible thereby revealing points of emphasis and recommended focus.
 
+
 ### PROJECT OVERVIEW
 This Data Analaysis project aims to provide insight into The Bible Word Emphasis to try and extract the major words repeated within the new testament. 
+
+![Screenshot (232)](https://github.com/user-attachments/assets/b70598ea-2c1c-4a62-b08b-2d94af0d2b40)
+
 
 ### DATA SOURCES
 The Primary data used for this dataset was gotteen from [Christian bible word count](https://www.christianbiblereference.org/faq_WordCount.htm) containing informations for major word counts for different versions of the old and new testament. 
